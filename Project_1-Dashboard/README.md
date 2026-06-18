@@ -1,5 +1,6 @@
 # Excel Salary Dashboard
 
+<img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/6d1f4740-e6ec-4f5d-a46b-c57f362db2c2" />
 
 ## Introduction
 
